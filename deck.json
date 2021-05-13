@@ -9,6 +9,7 @@
             "autoplay": true,
             "crowdanki_uuid": "742fcd0a-a6d2-11eb-a150-9cb6d013a4a3",
             "dyn": false,
+            "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
                     10.0
@@ -35,6 +36,8 @@
                 "order": 1,
                 "perDay": 6
             },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
             "replayq": true,
             "rev": {
                 "bury": false,
@@ -44,6 +47,7 @@
                 "maxIvl": 36500,
                 "perDay": 1000
             },
+            "reviewOrder": 0,
             "timer": 0
         }
     ],
@@ -2109,7 +2113,6 @@
         "googletts-9e074757-8c5980b8-a71a40f6-aa4499b1-6bce9032.mp3",
         "googletts-9e09cb81-4ab4fd1f-f663be1e-8ff31dc0-8e174249.mp3",
         "googletts-9e102d6d-266ba4d2-856c5203-1e0d7714-a46b8955.mp3",
-        "googletts-9e3313c2-c5bf9691-4ea1dd6b-6b4557e8-d3cb3bf5.mp3",
         "googletts-9e35fba5-39d461dd-359fafac-948b01e6-a419bf2f.mp3",
         "googletts-9e384a15-2ed93714-070c6cb8-e5f9dd66-d5b24f98.mp3",
         "googletts-9e453ab2-c368e5bc-df536c77-f4a2ebf1-9638bda9.mp3",
@@ -3189,6 +3192,7 @@
         "googletts-f23e9aec-6ae2f614-3f2ac343-65320457-ee9e5f3c.mp3",
         "googletts-f26ce180-735890c4-56294c54-6a3cbace-288e97f5.mp3",
         "googletts-f287b490-6d911725-6d05ee06-3af79c18-8ac06686.mp3",
+        "googletts-f298686d-196f2ae6-a4e6adf2-1f727803-6c0553d6.mp3",
         "googletts-f2a8ba95-2a5ccb0c-1e6b1956-1ac7d509-3e982eb3.mp3",
         "googletts-f2c1ebfd-ae4d2328-d1975421-8a355b45-6760d41d.mp3",
         "googletts-f2cb0909-c6d261ac-f97c19ab-25f25e22-b8576769.mp3",
@@ -3361,7 +3365,7 @@
         "googletts-ffcdab55-3483af3d-4ceddc86-ed3f7d8c-7b968ad6.mp3",
         "googletts-ffeb234f-af9be88c-158f66d9-5aaefd34-ee5a9312.mp3"
     ],
-    "name": "Kanji Lesung",
+    "name": "漢字 - 読み",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -4198,7 +4202,7 @@
                 "そ・ソ",
                 "曽",
                 "中曽根",
-                "中曽根",
+                "なかそね",
                 "Nakasone (Nachname)",
                 "[sound:googletts-5980ea26-679a4a26-2c8c40aa-140b4d18-a7da748b.mp3]"
             ],
@@ -4272,10 +4276,10 @@
                 "L-53",
                 "す(スン)",
                 "寸",
-                "寸波",
-                "すんぱう",
+                "寸法",
+                "すんぽう",
                 "Maß; Ausmaß",
-                "[sound:googletts-9e3313c2-c5bf9691-4ea1dd6b-6b4557e8-d3cb3bf5.mp3]"
+                "[sound:googletts-f298686d-196f2ae6-a4e6adf2-1f727803-6c0553d6.mp3]"
             ],
             "guid": "In[,VGh}8+",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -7124,7 +7128,7 @@
                 "藻",
                 "海藻",
                 "かいそう",
-                "Seetand; Algen",
+                "Seetang; Algen",
                 "[sound:googletts-079c1e25-94229553-6a5f33d3-76bfecb7-086268d4.mp3]"
             ],
             "guid": "h$8=4E;bBU",
