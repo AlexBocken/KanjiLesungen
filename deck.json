@@ -36,8 +36,10 @@
                 "order": 1,
                 "perDay": 6
             },
+            "newGatherPriority": 0,
             "newMix": 0,
             "newPerDayMinimum": 0,
+            "newSortOrder": 0,
             "replayq": true,
             "rev": {
                 "bury": false,
@@ -53,7 +55,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 2,
+    "extendNew": 8,
     "extendRev": 0,
     "media_files": [
         "_ipag.ttf",
@@ -4773,7 +4775,7 @@
                 "吾",
                 "吾人",
                 "ごじん",
-                "wir [selten]",
+                "wir<sup>[selten]</sup>",
                 "[sound:googletts-d7f4d3b9-988110c9-1179e984-97fd930d-a94a99b9.mp3]"
             ],
             "guid": "M!Hzuxw~[T",
