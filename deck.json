@@ -401,7 +401,6 @@
         "googletts-1c38da87-49a0ea8f-6a6b7d72-1438fa10-4235e162.mp3",
         "googletts-1c437ff8-c549ced4-1397e7bb-be685305-4693333f.mp3",
         "googletts-1c665c4e-bbea4906-117a9402-0fdfad98-30be6a4c.mp3",
-        "googletts-1c683f49-500e8fc1-fc734eaa-0ca37074-df136ee2.mp3",
         "googletts-1c7994e5-56292610-63ec3b0a-fb03305c-155f5d80.mp3",
         "googletts-1cbc9809-de2d9da5-ef30fa86-2d6c8660-58eb165c.mp3",
         "googletts-1cc31f36-51bd497f-e7b64c03-bb8e8fe2-ca2ee04e.mp3",
@@ -1278,6 +1277,7 @@
         "googletts-5e5bcfaf-bfc6addf-2eed8019-bfee8f62-bb8826ad.mp3",
         "googletts-5e5ded8d-ff6b1377-b49f85bf-66f7c555-3697ba2d.mp3",
         "googletts-5eb494d0-04a24d4f-5a640123-39713da0-29107a08.mp3",
+        "googletts-5ec87a44-ad9d96cf-a63813b4-92852d6f-3f4678af.mp3",
         "googletts-5edc65b1-3dfcf48f-ff0193e0-61328f08-491cf54e.mp3",
         "googletts-5ee7c760-59843dda-7790c721-6f46353e-7968682a.mp3",
         "googletts-5eec8bb5-233b20fc-37704c45-b88fba13-3f0ee047.mp3",
@@ -4881,7 +4881,7 @@
                 "舶来品",
                 "はくらいひん",
                 "Importware",
-                "[sound:googletts-1c683f49-500e8fc1-fc734eaa-0ca37074-df136ee2.mp3]"
+                "[sound:googletts-5ec87a44-ad9d96cf-a63813b4-92852d6f-3f4678af.mp3]"
             ],
             "guid": "lKNlK8feo]",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
