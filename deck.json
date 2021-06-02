@@ -55,7 +55,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 8,
+    "extendNew": 10,
     "extendRev": 0,
     "media_files": [
         "_ipag.ttf",
@@ -1683,6 +1683,7 @@
         "googletts-8061fda4-ef3171fb-1575222e-30d0e39c-c0f09af6.mp3",
         "googletts-8067a354-792738f3-05e1e42f-8c6e655b-feaee46d.mp3",
         "googletts-80822183-5088a02a-1f2a3711-98bf11c6-0a8175d0.mp3",
+        "googletts-80845b2f-7624341f-a385a867-ed0d7f82-cf544e03.mp3",
         "googletts-80914ec7-661374d5-18df258f-3e525792-3533a996.mp3",
         "googletts-80ded3aa-63a746e3-dd7dfaca-7e197d8b-d361786b.mp3",
         "googletts-80eafe62-96db68d3-a73db9a0-67b91aa7-41493748.mp3",
@@ -3372,7 +3373,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
-            "css": "@font-face {\n   font-family: 'IPAGothic';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_ipag.ttf) format('truetype');\n }\n:root{\n\t--highlight: #5E81AC;\n\t--least-important:#4C566A;\n\t--highlight2: #BF616A;\n\t--slight_highlight: #434C5E;\n\t--default: #2E3440;\n\t--hint: #5E81AC;\n\t--dark_hint:#B48EAD;\n\t--dark_default:#E5E9F0;\n\t--dark_highlight:#5E81AC;\n\t--dark_slight_highlight: #88C0D0;\n}\nbody {\nmargin: 0;\n}\n.dotted_front{\n\tborder-bottom-width: 5px;\n\tborder-bottom-style: dotted;\n\tborder-bottom-color: var(--dark_slight_highlight);\n}\n.dotted_back{\n\tborder-bottom-color:var(--dark_slight_highlight);\n\tborder-bottom-width: 3px;\n\tborder-bottom-style: dotted;\n}\n.container {\ndisplay: flex;\nflex-direction: column;\nheight: 100vh;\njustify-content: center;\nalign-items: stretch;\n}\n.card-content {\nflex: 1;\npadding: 20px;\npadding-top:0;\n}\n.footer {\n\tpadding: 20px;\n\tpadding-bottom: 5px;\n\tpadding-top:0px;\n}\n.card {\n\tmargin-top: 0px;\n\theight: 100%;\n\tfont-family:  Helvetica, \"IPAGothic\", Arial,Verdana,sans-serif;\n}\n.parent {\n  white-space: nowrap;\n  padding-top: 30vh;\n}\n#Komposita{\n\tmargin-top:30vh;\n\tfont-size: 120px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n\theight:120px;\n}\n.nightMode #Komposita{\n\tcolor: var(--dark_highlight);\n}\n.KanjiHighlight{\n\ttext-decoration:underline;\n\tcolor:var(--dark_slight_highlight);\n}\n\n#no {\n\tcolor:var(--least-important);\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n}\n.nightMode #no {\n\tcolor:var(--least-important);\n}\n.KompositaBack{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--slight_highlight);\n\tfont-size: 40px;\n\tpadding-top: 5vh;\n\tpadding-left: 10px;\n\tfont-style: normal;\n}\n.nightMode .KompositaBack{\n\tcolor:var(--dark_slight_highlight);\n}\n.ReadingBack{\n\tmargin-top:5vh;\n\ttext-align:center;\n\tfont-size: 70px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n}\n.nightMode .ReadingBack{\n\tcolor: var(--dark_highlight);\n}\n.card .KanaBack{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--least-important);\n\tfont-size: 40px;\n\tpadding-left: 10px;\n\tfont-style: normal;\n}\n.MeaningBack{\nhyphens:auto;\n\tpadding-left: 10px;\n    min-height:15vh;\n\ttext-align: center;\n\tfont-size: 25px;\n\ttext-align:left;\n\tcolor:var(--default);\n}\n.nightMode .MeaningBack{\n\tcolor:var(--dark_default);\n}\n\n.KompositaKanaFront{\n\tmargin-top:30vh;\n\tfont-size: 100px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n\theight:120px;\n}\n.darkMode .KompositaKanaFront{\n\tcolor: var(--dark_highlight);´\n}\n.MeaningFrontContainer{\n\tdisplay: flex;\n\tflex-direction: column;\n\theight: 90vh;\n\twidth:90vw;\n}\n.MeaningFront{\n\tmargin-top: auto;\n \tfont-family: Helvetica;\n\tfont-size: 50px;\n\tcolor: var(--highlight);\n\ttext-align:left;\n\thyphens: auto;\n\tjustify-content: flex-end;\n}\n.nightMode .MeaningFront{\n\tcolor: var(--dark_highlight);\n}\n.KanjiHint{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--slight_highlight);\n\tfont-size: 40px;\n\tpadding-left: 30px;\n\tfont-style: normal;\n\tmargin-bottom:auto;\n}\n.nightMode .KanjiHint{\n\tcolor: var(--dark_slight_highlight);\n}\n.card .TonBack{\n\tdisplay:none;\n}\n\n/* ANDROID SETTINGS */\n.android .container {\n\theight: 97vh; /*AnkiDroid seems to calculate vh with area below buttons*/\n}\n.android.card .nightMode {\n\tbackground-color:#000000;\n}",
+            "css": "@font-face {\n   font-family: 'IPAGothic';\n   font-style: normal;\n   font-weight: 400;\n   src: url(_ipag.ttf) format('truetype');\n }\n:root{\n\t--highlight: #5E81AC;\n\t--least-important:#4C566A;\n\t--highlight2: #BF616A;\n\t--slight_highlight: #434C5E;\n\t--default: #2E3440;\n\t--hint: #5E81AC;\n\t--dark_hint:#B48EAD;\n\t--dark_default:#E5E9F0;\n\t--dark_highlight:#5E81AC;\n\t--dark_slight_highlight: #88C0D0;\n}\nbody {\nmargin: 0;\n}\n.dotted_front{\n\tborder-bottom-width: 5px;\n\tborder-bottom-style: dotted;\n\tborder-bottom-color: var(--dark_slight_highlight);\n}\n.dotted_back{\n\tborder-bottom-color:var(--dark_slight_highlight);\n\tborder-bottom-width: 3px;\n\tborder-bottom-style: dotted;\n}\n.container {\ndisplay: flex;\nflex-direction: column;\nheight: 100vh;\njustify-content: center;\nalign-items: stretch;\n}\n.card-content {\nflex: 1;\npadding: 20px;\npadding-top:0;\n}\n.footer {\n\tpadding: 20px;\n\tpadding-bottom: 5px;\n\tpadding-top:0px;\n}\n.card {\n\tmargin-top: 0px;\n\theight: 100%;\n\tfont-family:  Helvetica, \"IPAGothic\", Arial,Verdana,sans-serif;\n}\n.parent {\n  white-space: nowrap;\n  padding-top: 30vh;\n}\n#Komposita{\n\tmargin-top:30vh;\n\tfont-size: 120px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n\theight:120px;\n}\n.nightMode #Komposita{\n\tcolor: var(--dark_highlight);\n}\n.KanjiHighlight{\n\ttext-decoration:underline;\n\tcolor:var(--dark_slight_highlight);\n}\n\n#no {\n\tcolor:var(--least-important);\n\tfont-family: Helvetica,Arial,Verdana,sans-serif;\n\tfont-size: 20px;\n\ttext-align:right;\n\tfloat:right;\n}\n.nightMode #no {\n\tcolor:var(--least-important);\n}\n.KompositaBack{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--slight_highlight);\n\tfont-size: 40px;\n\tpadding-top: 5vh;\n\tpadding-left: 10px;\n\tfont-style: normal;\n}\n.nightMode .KompositaBack{\n\tcolor:var(--dark_slight_highlight);\n}\n.ReadingBack{\n\tmargin-top:5vh;\n\ttext-align:center;\n\tfont-size: 70px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n}\n.nightMode .ReadingBack{\n\tcolor: var(--dark_highlight);\n}\n.card .KanaBack{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--least-important);\n\tfont-size: 40px;\n\tpadding-left: 10px;\n\tfont-style: normal;\n}\n.MeaningBack{\nhyphens:auto;\n\tpadding-left: 10px;\n    min-height:15vh;\n\ttext-align: center;\n\tfont-size: 25px;\n\ttext-align:left;\n\tcolor:var(--default);\n}\n.nightMode .MeaningBack{\n\tcolor:var(--dark_default);\n}\n\n.KompositaKanaFront{\n\tmargin-top:30vh;\n\tfont-size: 100px;\n   \tfont-family: IPAGothic;\n\tcolor: var(--highlight);\n\theight:120px;\n}\n.darkMode .KompositaKanaFront{\n\tcolor: var(--dark_highlight);´\n}\n.MeaningFrontContainer{\n\tdisplay: flex;\n\tflex-direction: column;\n\theight: 90vh;\n\twidth:90vw;\n}\n.MeaningFront{\n\tmargin-top: auto;\n \tfont-family: Helvetica;\n\tfont-size: 40px;\n\tcolor: var(--highlight);\n\ttext-align:left;\n\thyphens: auto;\n\tjustify-content: flex-end;\n}\n.nightMode .MeaningFront{\n\tcolor: var(--dark_highlight);\n}\n.KanjiHint{\n\tfont-family: Helvetica, IPAGothic;\n\tcolor: var(--slight_highlight);\n\tfont-size: 50px;\n\tpadding-left: 30px;\n\tfont-style: normal;\n\tmargin-bottom:auto;\n}\n.nightMode .KanjiHint{\n\tcolor: var(--dark_slight_highlight);\n}\n.card .TonBack{\n\tdisplay:none;\n}\n\n/* ANDROID SETTINGS */\n.android .container {\n\theight: 97vh; /*AnkiDroid seems to calculate vh with area below buttons*/\n}\n.android.card .nightMode {\n\tbackground-color:#000000;\n}",
             "flds": [
                 {
                     "font": "Liberation Sans",
@@ -4775,7 +4776,7 @@
                 "吾",
                 "吾人",
                 "ごじん",
-                "wir<sup>[selten]</sup>",
+                "wir [selten]",
                 "[sound:googletts-d7f4d3b9-988110c9-1179e984-97fd930d-a94a99b9.mp3]"
             ],
             "guid": "M!Hzuxw~[T",
@@ -4969,9 +4970,9 @@
                 "ホウ",
                 "胞",
                 "同胞",
-                "きょうだい",
+                "どうほう",
                 "Landsmänner; Landsleute",
-                "[sound:googletts-1d3444e6-d5e1aa83-955bb36c-ea6a5594-c3181839.mp3]"
+                "[sound:googletts-80845b2f-7624341f-a385a867-ed0d7f82-cf544e03.mp3]"
             ],
             "guid": "NZS5WTnu,b",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -5240,7 +5241,7 @@
                 "攻",
                 "専攻",
                 "せんこう",
-                "Berühmtheit, Berühmtsein",
+                "Fachgebiet",
                 "[sound:googletts-31012086-39567592-9bf4b528-4591d9d1-49672e66.mp3]"
             ],
             "guid": "Jpmixp^shv",
