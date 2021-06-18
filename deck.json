@@ -20,7 +20,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "Readings",
             "new": {
                 "bury": false,
                 "delays": [
@@ -34,7 +34,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 6
+                "perDay": 12
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -55,7 +55,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 10,
+    "extendNew": 6,
     "extendRev": 0,
     "media_files": [
         "_ipag.ttf",
@@ -1938,7 +1938,6 @@
         "googletts-918e2460-298e9e95-67c6eb5f-b66c4301-646b5350.mp3",
         "googletts-918fb6bc-d2ee8fb1-50eb05c5-119597a2-27186dcf.mp3",
         "googletts-91c8dcfb-6ac863b3-dc7308b4-b1f3d67e-6f4648a6.mp3",
-        "googletts-91da883f-9df2eb7e-f95ac1c7-acd88849-699bbdef.mp3",
         "googletts-91e0651d-7f3285a4-27d73d5c-e52bed37-9c683059.mp3",
         "googletts-91e849f7-0e731fe9-9e8e227f-6413c3f9-0e18896e.mp3",
         "googletts-91f26faf-fdb63159-23a85cff-667a1aa1-85339fb4.mp3",
@@ -2835,6 +2834,7 @@
         "googletts-d790ff31-001a87ba-1cee58c7-dfee938e-95605882.mp3",
         "googletts-d79c8d5d-d3bb5539-44a5531a-41c75250-156e798a.mp3",
         "googletts-d7afbc37-e3aa0b8c-97d9c989-2d9578e8-0eeff790.mp3",
+        "googletts-d7b02284-93928ea9-8d4545a9-f874dfc8-18155ca9.mp3",
         "googletts-d7c35748-3ff99002-4c824d12-0c48e9ea-23ea3961.mp3",
         "googletts-d7d39e85-23d179aa-31ad9d77-c02031e0-be29b655.mp3",
         "googletts-d7e64684-6c06b947-15c08243-370a226a-35af4215.mp3",
@@ -5766,7 +5766,7 @@
                 "粗",
                 "粗末",
                 "そまつ",
-                "einfach; Ungeschliffen",
+                "einfach; ungeschliffen",
                 "[sound:googletts-29fa4836-d54328ef-6ad94760-5fb75c31-1de07073.mp3]"
             ],
             "guid": "cG~I06RIop",
@@ -6485,9 +6485,9 @@
                 "ロ",
                 "賂",
                 "賄賂",
-                "まいない",
+                "わいろ",
                 "Bestechung",
-                "[sound:googletts-91da883f-9df2eb7e-f95ac1c7-acd88849-699bbdef.mp3]"
+                "[sound:googletts-d7b02284-93928ea9-8d4545a9-f874dfc8-18155ca9.mp3]"
             ],
             "guid": "P.41)JR)+[",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -36006,7 +36006,7 @@
                 "挿",
                 "挿入",
                 "そうにゅう",
-                "Einfüngung",
+                "Einfügung",
                 "[sound:googletts-5dc0b15b-5f3a34bd-40254129-ace8f022-ee2fbbe9.mp3]"
             ],
             "guid": "Fy?9rwdVT.",
