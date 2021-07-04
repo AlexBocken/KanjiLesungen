@@ -55,7 +55,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 6,
+    "extendNew": 2,
     "extendRev": 0,
     "media_files": [
         "_ipag.ttf",
@@ -372,6 +372,7 @@
         "googletts-1987cd80-1b296cb9-3f3df41c-4badf26d-a1d3ab8e.mp3",
         "googletts-199d7d0e-1c030b73-ed7b9c22-773c9dad-90c66925.mp3",
         "googletts-19a1ab6b-952ec347-95f10759-0420ed57-a65e076f.mp3",
+        "googletts-19b9e39d-fb531d70-1faaee3b-13189866-368fd0ce.mp3",
         "googletts-19cc1b2c-3c4a0805-facb163e-a6e58a79-a2b0d8bb.mp3",
         "googletts-19dcc2bb-ff1b8b7b-94849f93-a32830cd-4755f093.mp3",
         "googletts-1a0aae77-3890cb8b-b80c461d-4d3c0f58-ba0905d9.mp3",
@@ -891,7 +892,6 @@
         "googletts-3f34bff7-0611fc9a-0360e1cc-2949f1a0-d9b54de0.mp3",
         "googletts-3f4cac82-a889ed09-2de42b86-933430ef-460ee2b3.mp3",
         "googletts-3f4d8784-1ddca376-af00be6d-492406f8-6b00eefd.mp3",
-        "googletts-3f5025f7-e3954f71-28a5d055-786cbf05-280e0756.mp3",
         "googletts-3f5b5a46-6dcce32c-d0398289-9e32d3b9-7597d660.mp3",
         "googletts-3f989d0b-de6d18f9-ca0368b5-14ff2a6d-bf4a5d04.mp3",
         "googletts-3fcb6bb8-402bf338-0b025268-3f0fe0a0-1986f3ee.mp3",
@@ -1296,7 +1296,6 @@
         "googletts-60431110-1292fbf0-d8c43544-26a713c2-15ea2c2f.mp3",
         "googletts-604aa800-d0b5a399-619499da-6c1d14b5-e72ed3b1.mp3",
         "googletts-605c346a-a3f206f9-0c4ddc66-e2cfa590-684dde95.mp3",
-        "googletts-60652b2d-c97772e1-dfcc0ace-ab472256-552a6809.mp3",
         "googletts-60697704-64fe80e0-fae736a5-f7b08de3-f4111d1e.mp3",
         "googletts-60774491-2158a54c-1c78326a-e6f77e2b-808f15ca.mp3",
         "googletts-609ac275-d6310132-8ac8ad38-7a6a2a0b-42b84f23.mp3",
@@ -1497,6 +1496,7 @@
         "googletts-720256d0-2b6f7821-2eb38ccb-51b3a74b-21c03a58.mp3",
         "googletts-72218c3c-55268982-d291c85b-65cc72bd-faebf163.mp3",
         "googletts-722254bf-579df2bb-521135e1-07917aad-2988641c.mp3",
+        "googletts-7234575c-a94e4d94-bf3f3357-85035b28-17acd81f.mp3",
         "googletts-726c90dd-270ca4ca-c53cac63-3e6dbbe0-8f1a4196.mp3",
         "googletts-72712d14-8b888ac5-accd6dcb-e82e0095-9eb796d9.mp3",
         "googletts-72714429-4b03e2e0-d7169dde-88fc676d-95da6e9f.mp3",
@@ -7566,7 +7566,7 @@
                 "腺",
                 "汗腺",
                 "かんせん",
-                "Schweißdrüße",
+                "Schweißdrüse",
                 "[sound:googletts-7d4f082a-f0fef34c-9558e9bd-01db7241-418d0222.mp3]"
             ],
             "guid": "H;cp,Uu5+-",
@@ -8210,9 +8210,9 @@
                 "キョウ",
                 "挟",
                 "挟撃",
-                "はさみうち",
+                "きょうげき",
                 "Zangenangriff",
-                "[sound:googletts-3f5025f7-e3954f71-28a5d055-786cbf05-280e0756.mp3]"
+                "[sound:googletts-7234575c-a94e4d94-bf3f3357-85035b28-17acd81f.mp3]"
             ],
             "guid": "A9gjIg0`fm",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
@@ -8420,9 +8420,9 @@
                 "ハン",
                 "帆",
                 "帆船",
-                "ほぶね",
+                "はんせん",
                 "Segelboot",
-                "[sound:googletts-60652b2d-c97772e1-dfcc0ace-ab472256-552a6809.mp3]"
+                "[sound:googletts-19b9e39d-fb531d70-1faaee3b-13189866-368fd0ce.mp3]"
             ],
             "guid": "NP+iy!G3Qm",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
