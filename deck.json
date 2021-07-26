@@ -1,5 +1,6 @@
 {
     "__type__": "Deck",
+    "activeTags": [],
     "children": [],
     "crowdanki_uuid": "742fb810-a6d2-11eb-a150-9cb6d013a4a3",
     "deck_config_uuid": "742fcd0a-a6d2-11eb-a150-9cb6d013a4a3",
@@ -34,7 +35,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 12
+                "perDay": 6
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -57,6 +58,7 @@
     "dyn": 0,
     "extendNew": 2,
     "extendRev": 0,
+    "inactiveTags": [],
     "media_files": [
         "_ipag.ttf",
         "_jquery.min.js",
@@ -1169,7 +1171,6 @@
         "googletts-5596a6eb-0247d2c0-96a15e39-eacd1fe2-263deeb2.mp3",
         "googletts-55ab7bd9-d5ee7ced-5bf1a967-8169175e-9d8f92b0.mp3",
         "googletts-5604aabf-9843dbab-9995045d-aff197ab-5395b54f.mp3",
-        "googletts-5608a3b6-d3cf3a07-12a339d3-78eb2929-d7733b35.mp3",
         "googletts-560da277-708ebf5a-e2d1bf37-1f2b5251-8735ba49.mp3",
         "googletts-562043d8-064d41c1-67bfef39-c83f317c-cf6ec1cc.mp3",
         "googletts-5629e90c-5b11b657-e71aa0fe-515a33a2-273f121d.mp3",
@@ -2620,6 +2621,7 @@
         "googletts-c6f19ede-09056f7a-57502fe7-78934f8d-a9974e4c.mp3",
         "googletts-c6f41ad2-c93e141e-41ae2377-d8cc72b2-b29c8c22.mp3",
         "googletts-c733fdb7-7d5c1d09-c95215ba-47fa6dc7-21bbcebc.mp3",
+        "googletts-c73be085-e6cbb94c-e017b6d3-a1db476f-a86ca960.mp3",
         "googletts-c7452aaf-5b89e17c-f6a0ecff-d5357834-a65d4cad.mp3",
         "googletts-c75af575-6fce3e54-9386afb9-a34b205f-9858b6df.mp3",
         "googletts-c7629321-779b9dce-8d0d9eb2-f3dd77e9-ac6e2e4a.mp3",
@@ -7521,7 +7523,7 @@
                 "洲",
                 "六大洲",
                 "ろくだいしゅう",
-                "die \"sechs\" Kontinente",
+                "die <q>sechs</q> Kontinente",
                 "[sound:googletts-fd5f7d19-cc9a62b0-42a735fe-e496df4b-23129f3e.mp3]"
             ],
             "guid": "Q?`g?T2})K",
@@ -10370,9 +10372,9 @@
                 "キョウ",
                 "郷",
                 "故郷",
-                "ふるさと",
+                "こきょう",
                 "Geburtsort; Heimat",
-                "[sound:googletts-5608a3b6-d3cf3a07-12a339d3-78eb2929-d7733b35.mp3]"
+                "[sound:googletts-c73be085-e6cbb94c-e017b6d3-a1db476f-a86ca960.mp3]"
             ],
             "guid": "fsOn}w[QFk",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
