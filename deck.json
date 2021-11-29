@@ -35,7 +35,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 6
+                "perDay": 10
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -4253,7 +4253,7 @@
                 "礼",
                 "失礼",
                 "しつれい",
-                "Unöflichkeit; Unverschämtheit",
+                "Unhöflichkeit; Unverschämtheit",
                 "[sound:googletts-e69b50be-cbd4c672-6d310c00-737752af-dc6d2cba.mp3]"
             ],
             "guid": "lBi?x##tfS",
@@ -14858,7 +14858,7 @@
                 "藤",
                 "葛藤",
                 "かっとう",
-                "Konflickt; Verwicklung",
+                "Konflikt; Verwicklung",
                 "[sound:googletts-93550a44-6c3f46b2-144d7d65-410ee642-c9d93ca6.mp3]"
             ],
             "guid": "Eiy`27h05k",
@@ -19088,7 +19088,7 @@
                 "見",
                 "見物",
                 "けんぶつ",
-                "Besichitgung; Besuch",
+                "Besichtigung; Besuch",
                 "[sound:googletts-2595a6b6-6fbf8983-1a89c1ea-0fbbb26e-f03093cc.mp3]"
             ],
             "guid": "rMn|jo>}aX",
@@ -19103,7 +19103,7 @@
                 "物",
                 "見物",
                 "けんぶつ",
-                "Besichitgung; Besuch",
+                "Besichtigung; Besuch",
                 "[sound:googletts-2595a6b6-6fbf8983-1a89c1ea-0fbbb26e-f03093cc.mp3]"
             ],
             "guid": "q<p&X/a=,D",
@@ -22673,7 +22673,7 @@
                 "葛",
                 "葛藤",
                 "かっとう",
-                "Konflickt; Verwicklung",
+                "Konflikt; Verwicklung",
                 "[sound:googletts-93550a44-6c3f46b2-144d7d65-410ee642-c9d93ca6.mp3]"
             ],
             "guid": "cF5?Qo+`#4",
@@ -61460,8 +61460,8 @@
             "fields": [
                 "L-3180",
                 "たた",
-                "崇",
-                "崇る",
+                "祟",
+                "祟る",
                 "たたる",
                 "verfluchen; heimsuchen",
                 "[sound:googletts-f036cd20-64ccfd57-771be2df-73572199-b7d80adb.mp3]"
