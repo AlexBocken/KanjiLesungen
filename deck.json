@@ -71,7 +71,6 @@
         "googletts-00da89d6-a4412e89-37fae512-b0b95658-91ccb372.mp3",
         "googletts-00ec3359-4f0e80e7-7e7d9df4-dd338564-9bf15874.mp3",
         "googletts-010dd40f-c34a8417-3fd69091-fb3ccc7d-f333d5b9.mp3",
-        "googletts-01415c5e-7b1f6615-234c72c3-8e8d3037-6c905178.mp3",
         "googletts-01670da7-71dd1ba7-288677a6-aa0b2fab-c9c17085.mp3",
         "googletts-0178a207-6114fd42-d2ee6ef6-fd68ec0b-2c924c51.mp3",
         "googletts-018d77d2-dc94003a-fbf0b9a1-c3c4c9f4-e422e9fa.mp3",
@@ -1424,6 +1423,7 @@
         "googletts-6b385ffe-e6106358-de52d7fb-f1358498-5573514a.mp3",
         "googletts-6b44c572-99ba50b7-0fb38ed3-094020ad-4878226e.mp3",
         "googletts-6b5365e8-4a1e85ab-ad870cc4-8cad5d78-e5954c49.mp3",
+        "googletts-6b75dda9-7c9837ac-3cf9c7b3-5ceca6c2-7611e926.mp3",
         "googletts-6bc1dad1-b392b30a-f30262bd-c7311ef1-c83341cc.mp3",
         "googletts-6bc85b5e-93701974-05b23553-bd04a6cd-f3e5c128.mp3",
         "googletts-6bd7f49c-ec428e6f-cd67e4c4-4072b306-1c8e3ecc.mp3",
@@ -37748,7 +37748,7 @@
                 "阜",
                 "岐阜県",
                 "ぎふけん",
-                "Präfektur gifu",
+                "Präfektur Gifu",
                 "[sound:googletts-787a6f66-a05dc608-8342f342-6277eb4e-809e9248.mp3]"
             ],
             "guid": "G.v[,59._B",
@@ -40239,7 +40239,7 @@
                 "一斤",
                 "いっきん",
                 "1 Kin (ca. 600g)",
-                "[sound:googletts-01415c5e-7b1f6615-234c72c3-8e8d3037-6c905178.mp3]"
+                "[sound:googletts-6b75dda9-7c9837ac-3cf9c7b3-5ceca6c2-7611e926.mp3]"
             ],
             "guid": "GqIJv7}%E2",
             "note_model_uuid": "7438e0a2-a6d2-11eb-a150-9cb6d013a4a3",
